@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ps65854321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qY8FrKMVbx5Gg-CLKicTrxLf8ZeXZ9fl/view?usp=drive_link](https://drive.google.com/file/d/1qY8FrKMVbx5Gg-CLKicTrxLf8ZeXZ9fl/view?usp=drive_link)
+- 📄 my resume [https://drive.google.com/file/d/1qY8FrKMVbx5Gg-CLKicTrxLf8ZeXZ9fl/view?usp=drive_link](https://drive.google.com/file/d/1qY8FrKMVbx5Gg-CLKicTrxLf8ZeXZ9fl/view?usp=drive_link)
 
 - ⚡ Fun fact **I used to solve one dsa problem daily**
 
